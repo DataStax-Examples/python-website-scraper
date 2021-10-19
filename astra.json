@@ -7,5 +7,5 @@
   "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/python-website-scraper/master/hero.jpeg",
   "tags": [{ "name": "python" }, { "name": "selenium" }, { "name": "video" }],
   "category": "apps",
-  "priority": 2
+  "priority": 3
 }
